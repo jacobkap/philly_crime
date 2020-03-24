@@ -1,0 +1,8 @@
+name: "Philly Crime Data"
+navbar:
+  title: "Philly Crime Data"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
